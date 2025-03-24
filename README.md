@@ -45,7 +45,7 @@ This project analyzes sales data from TechCorner, focusing on customer behavior,
 
 ## 📊 Sample Visualizations
 Here are some of the insights generated:
-![Sales Trend](plots/sales_trend.png)
+![Sales Trend] Sales_Analysis_Report (1).pdf
 
 ## 📞 Contact
 For any inquiries, reach out at **adwizex@gmail.com**.
